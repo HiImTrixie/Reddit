@@ -1,2 +1,2 @@
 # Reddit
-Challenges fro https://www.reddit.com/r/dailyprogrammer/
+Challenges from https://www.reddit.com/r/dailyprogrammer/
